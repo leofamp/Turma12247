@@ -8,4 +8,6 @@ const pessoa = new Pessoa("Leonardo")
 
 console.log(pessoa.nome)
 
-super()
+
+
+console.log("leo")
